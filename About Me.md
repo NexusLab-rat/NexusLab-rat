@@ -4,6 +4,5 @@
 - ⚡ Fun fact: i know where you live
 
 <!---
-NexusLab-rat/NexusLab-rat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+i dont like coding, it hard
 --->
